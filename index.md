@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Hi I'm Zach Dawson
 
-You can use the [editor on GitHub](https://github.com/zachwdawson/zachwdawson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a computer science student and software engineer seeking full time employment following my graduation from Northeastern University. I have experience developing large scale software in both research and industry contexts. I am passionate about leveraging data and computing power to solve interesting and challenging problems. Please checkout my resume and coding exmamples on this page and reach out if you find something interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume:
+<object data="https://zachwdawson.github.io/ZacharyDawsonResume 1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://zachwdawson.github.io/ZacharyDawsonResume 1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://zachwdawson.github.io/ZacharyDawsonResume 1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-### Markdown
+### Coding Examples:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Data Science Final Project](https://github.com/zachwdawson/DS300_Final).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zachwdawson/zachwdawson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Software Development Project](https://github.com/zachwdawson/Software-Development).
