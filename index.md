@@ -22,9 +22,9 @@ I am a recent graduate and software engineer seeking full time employment follow
 </object>
 
 ### ZBot:
-<object data="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf">Download PDF</a>.</p>
+<object data="https://zachwdawson.github.io/ZBOT.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://zachwdawson.github.io/ZBOT.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://zachwdawson.github.io/ZBOT.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
