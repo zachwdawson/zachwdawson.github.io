@@ -2,7 +2,7 @@
 
 I am a recent graduate and software engineer seeking full time employment following my graduation from Northeastern University. I have experience developing large scale software in both research and industry contexts. I am passionate about leveraging data and computing power to solve interesting and challenging problems. Please checkout my resume and coding exmamples on this page and reach out if you find something interesting.
 
-[LinkedIn](https://www.linkedin.com/in/zachary-dawson/).
+[LinkedIn](https://www.linkedin.com/in/zachary-dawson/)
 
 <zachwdawson@gmail.com>
 
@@ -10,9 +10,9 @@ I am a recent graduate and software engineer seeking full time employment follow
 
 ### Coding Examples:
 
-[Data Science Final Project](https://github.com/zachwdawson/DS300_Final).
+[Data Science Final Project](https://github.com/zachwdawson/DS300_Final)
 
-[Software Development Project](https://github.com/zachwdawson/Software-Development).
+[Software Development Project](https://github.com/zachwdawson/Software-Development)
 
 ### Resume:
 <object data="https://zachwdawson.github.io/ZacharyDawsonResume.pdf" type="application/pdf" width="700px" height="700px">
@@ -22,9 +22,9 @@ I am a recent graduate and software engineer seeking full time employment follow
 </object>
 
 ### ZBot:
-<object data="https://github.com/zachwdawson/zachwdawson.github.io/raw/main/ZBOT.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/zachwdawson/zachwdawson.github.io/raw/main/ZBOT.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/zachwdawson/zachwdawson.github.io/raw/main/ZBOT.pdf">Download PDF</a>.</p>
+<object data="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/zachwdawson/zachwdawson.github.io/ZBOT.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
