@@ -1,6 +1,6 @@
 ## Hi I'm Zach Dawson
 
-I am a recent graduate and software engineer seeking full time employment following my graduation from Northeastern University. I have experience developing large scale software in both research and industry contexts. I am passionate about leveraging data and computing power to solve interesting and challenging problems. Please checkout my resume and coding exmamples on this page and reach out if you find something interesting.
+I am a recent graduate and software engineer seeking full time employment. I have experience developing large scale software in both research and industry contexts. I am passionate about leveraging data and computing power to solve interesting and challenging problems. Please checkout my resume and coding exmamples on this page and reach out if you find something interesting.
 
 [LinkedIn](https://www.linkedin.com/in/zachary-dawson/)
 
