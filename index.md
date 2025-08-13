@@ -1,6 +1,8 @@
 # Contents
 [Resume](#Resume)
+
 [Projects](#Projects)
+
 [Code Examples](#Code-Examples)
 
 
