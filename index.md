@@ -5,7 +5,7 @@ I am a graduate student at Georgia Institue of Technology. I am studying Machine
 
 ## Contents
 [Resume](#resume)
-
+ 
 [Projects](#projects)
 
 [Code Examples](#code-examples)
