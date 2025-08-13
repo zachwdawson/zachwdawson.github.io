@@ -22,7 +22,7 @@ This project takes a unique approach to golf handicapping. We use two bayesian h
 </object>
 
 
-### DL Golf Frame Labeling:
+### Golf Swing Action Recognition:
 
 This project uses advancements in Deep Learning to improve upon the performance on a benchmark computer vision dataset related to the golf swing. We utilize 3D CNN's, various classifier modules, and loss functions to find better performing models on this benchmark. 
 
@@ -37,6 +37,6 @@ This project uses advancements in Deep Learning to improve upon the performance 
 
 [Bayesian Golf Handicapping]([https://github.com/zachwdawson/DS300_Final](https://github.gatech.edu/zdawson7/bayes_handicapping/tree/main))
 
-[DL Golf Swing Frame Analysis]([https://github.com/zachwdawson/Software-Development](https://github.gatech.edu/zdawson7/golf_db_final_project))
+[Golf Swing Action Recognition]([https://github.com/zachwdawson/Software-Development](https://github.gatech.edu/zdawson7/golf_db_final_project))
 
 
