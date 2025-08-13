@@ -1,14 +1,14 @@
 
 I am a graduate student at Georgia Institue of Technology. I am studying Machine Learning and Data related courses and am searching for a job in the broader Data/ML field. Below you can find some examples of my work and projects.
 
-[LinkedIn](https://www.linkedin.com/in/zachary-dawson/) | <zachwdawson@gmail.com> | [508-446-3322](tel:5084463322)
+[LinkedIn](https://www.linkedin.com/in/zachary-dawson/) \| <zachwdawson@gmail.com> \| [508-446-3322](tel:5084463322)
 
 ## Contents
-[Resume](#Resume)
+[Resume](##Resume)
 
-[Projects](#Projects)
+[Projects](##Projects)
 
-[Code Examples](#Code-Examples)
+[Code Examples](##Code-Examples)
 
 ## Resume
 <object data="https://zachwdawson.github.io/zachary_dawson_resume.pdf" type="application/pdf" width="700px" height="700px">
