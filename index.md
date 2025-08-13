@@ -3,14 +3,14 @@ I am a graduate student at Georgia Institue of Technology. I am studying Machine
 
 [LinkedIn](https://www.linkedin.com/in/zachary-dawson/) | <zachwdawson@gmail.com> | [508-446-3322](tel:5084463322)
 
-# Contents
+## Contents
 [Resume](#Resume)
 
 [Projects](#Projects)
 
 [Code Examples](#Code-Examples)
 
-## Resume:
+## Resume
 <object data="https://zachwdawson.github.io/zachary_dawson_resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://zachwdawson.github.io/zachary_dawson_resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://zachwdawson.github.io/zachary_dawson_resume.pdf">Download PDF</a>.</p>
