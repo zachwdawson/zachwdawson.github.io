@@ -19,7 +19,17 @@ I am a graduate student at Georgia Institue of Technology. I am studying Machine
 
 ## Projects
 
-### Bayesian Golf Handicapping:
+### Golf Swing AI Assistant [repo](https://github.com/zachwdawson/GolfSwingCoachLLM)
+This project is an application that provides users with golf swing coaching. The frontend is a Typescript applicaiton and the backend is an API built with FastAPI. When a user uploads an image, a deep learning model extracts key positions from the golf swing, a 3D pose estimation tool labels joints, metrics are calculated using these joint labels, metric values are used to find relevant swing flaws in a vector database (pgvector), information about the identified swing flaws are fed to an LLM API to generate a plactice plan.
+
+#### Swing Upload
+<img src="swing_upload_img.png" alt="isolated" width="400"/>
+### Key Frame Extraction and Labeling
+<img src="key_frame_extract_img.png" alt="isolated" width="400"/>
+### Practice Plan
+<img src="practice_plan_img.png" alt="isolated" width="400"/>
+
+### Bayesian Golf Handicapping
 
 This project takes a unique approach to golf handicapping. We use two bayesian hierarchical models (a random-walk model and a generalized linear model) for predict future golf scores based off recent golf scores. Utilizing Bayesian methods we can predict a distribution of scores, rather than a single handicap value. Using each player's distribution, we can assign course handicaps to enable fairer outcomes in large and small field tournaments.
 
@@ -29,7 +39,7 @@ This project takes a unique approach to golf handicapping. We use two bayesian h
     </embed>
 </object>
 
-
+<!--
 ### Golf Swing Action Recognition:
 
 This project uses advancements in Deep Learning to improve upon the performance on a benchmark computer vision dataset related to the golf swing. We utilize 3D CNN's, various classifier modules, and loss functions to find better performing models on this benchmark. 
@@ -46,5 +56,5 @@ This project uses advancements in Deep Learning to improve upon the performance 
 [Bayesian Golf Handicapping]([https://github.com/zachwdawson/DS300_Final](https://github.gatech.edu/zdawson7/bayes_handicapping/tree/main))
 
 [Golf Swing Action Recognition]([https://github.com/zachwdawson/Software-Development](https://github.gatech.edu/zdawson7/golf_db_final_project))
-
+-->
 
