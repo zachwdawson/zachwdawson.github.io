@@ -24,9 +24,11 @@ This project is an application that provides users with golf swing coaching. The
 
 #### Swing Upload
 <img src="swing_upload_img.png" alt="isolated" width="400"/>
-### Key Frame Extraction and Labeling
+
+#### Key Frame Extraction and Labeling
 <img src="key_frame_extract_img.png" alt="isolated" width="400"/>
-### Practice Plan
+
+#### Practice Plan
 <img src="practice_plan_img.png" alt="isolated" width="400"/>
 
 ### Bayesian Golf Handicapping
